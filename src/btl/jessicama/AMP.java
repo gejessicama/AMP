@@ -15,5 +15,11 @@ public class AMP {
 
     public static void main(String[] args) {
     }
+
+    public void addAMP(AMP other){
+
+        comparisonList.add(new AMPComp(this, other));
+
+    }
 }
 
