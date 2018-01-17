@@ -1,0 +1,11 @@
+{"seq1":"one","seq2":"two", "sim":100}
+{"seq1":"two","seq2":"one", "sim":70}
+{"seq1":"two","seq2":"one", "sim":70}
+{"seq1":"one","seq2":"tw", "sim":30}
+{"seq1":"one","seq2":"tw", "sim":100}
+{"seq1":"tw","seq2":"two", "sim":324}
+{"seq1":"two","seq2":"tw", "sim":123}
+{"seq1":"one","seq2":"sda", "sim":14}
+{"seq1":"one","seq2":"dfsa", "sim":23}
+{"seq1":"one","seq2":"tdsaf", "sim":34}
+{"seq1":"one","seq2":"twfdfd", "sim":43}
